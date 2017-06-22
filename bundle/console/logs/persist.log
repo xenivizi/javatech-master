@@ -1,0 +1,26 @@
+DEBUG | 2017-06-12 09:40:31 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+DEBUG | 2017-06-12 09:44:25 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+DEBUG | 2017-06-12 09:55:59 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+INFO  | 2017-06-12 09:56:32 | [main] persist.CarDAOJSON (CarDAOJSON.java:48) - Car (MIW426) has been added!
+INFO  | 2017-06-12 10:12:40 | [main] persist.CarDAOJSON (CarDAOJSON.java:48) - Car (MIW426) has been added!
+DEBUG | 2017-06-12 10:21:21 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+DEBUG | 2017-06-12 10:24:00 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+DEBUG | 2017-06-12 10:32:45 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+INFO  | 2017-06-12 10:33:39 | [main] persist.CarDAOJSON (CarDAOJSON.java:48) - Car (XXX888) has been added!
+DEBUG | 2017-06-12 10:48:32 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+INFO  | 2017-06-12 10:48:49 | [main] persist.CarDAOJSON (CarDAOJSON.java:69) - Car (MIW426) has been deleted!
+INFO  | 2017-06-12 10:49:17 | [main] persist.CarDAOJSON (CarDAOJSON.java:69) - Car (XXX888) has been deleted!
+DEBUG | 2017-06-12 10:52:18 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+INFO  | 2017-06-12 10:52:33 | [main] persist.CarDAOJSON (CarDAOJSON.java:70) - Car (XXX888) has been deleted!
+DEBUG | 2017-06-12 10:55:17 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+INFO  | 2017-06-12 10:55:36 | [main] persist.CarDAOJSON (CarDAOJSON.java:71) - Car (XXX888) has been deleted!
+INFO  | 2017-06-12 11:06:42 | [main] persist.CarDAOJSON (CarDAOJSON.java:71) - Car (XXX888) has been deleted!
+DEBUG | 2017-06-12 11:07:10 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+INFO  | 2017-06-12 11:07:24 | [main] persist.CarDAOJSON (CarDAOJSON.java:71) - Car (XXX888) has been deleted!
+DEBUG | 2017-06-12 11:09:03 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+INFO  | 2017-06-12 11:09:38 | [main] persist.CarDAOJSON (CarDAOJSON.java:72) - Car (XXX888) has been deleted!
+DEBUG | 2017-06-12 11:10:58 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+INFO  | 2017-06-12 11:11:09 | [main] persist.CarDAOJSON (CarDAOJSON.java:72) - Car (XXX888) has been deleted!
+DEBUG | 2017-06-12 11:12:26 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
+INFO  | 2017-06-12 11:12:37 | [main] persist.CarDAOJSON (CarDAOJSON.java:71) - Car (MIW426) has been deleted!
+DEBUG | 2017-06-12 11:30:14 | [main] persist.CarDAOJSON (CarDAOJSON.java:29) - Car Databse : C:\WORK\_SULI\JAVATECH\javaTechnologies\bundle\console\resources\cars.json
